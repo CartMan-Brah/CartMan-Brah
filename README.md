@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CartMan-Brah
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning data science with Python and SQL.
+- 🌱 I’m currently learning data science with Python.
 
 <!---
 CartMan-Brah/CartMan-Brah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
